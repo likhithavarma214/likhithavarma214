@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/likhithavarma214">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=60&lines=🤖+AI+%26+Cloud+Security+Engineer;🔐+DevSecOps+%26+Kubernetes+Enthusiast;☁️+Building+Scalable+Secure+Systems;💻+Full+Stack+Developer+%7C+Clean+Code;🚀+Turning+Ideas+Into+Production-Grade+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=60&lines=🤖+AI+%26+Cloud+Security+Engineer;🔐+DevSecOps+%26+Kubernetes+Enthusiast;☁️+Building+Scalable+Secure+Systems;💻+Full+Stack+Developer+%7C+Clean+Code;🚀+Turning+Ideas+Into+Production-Grade+Apps" />
 </a>
 
 <br/>
@@ -56,7 +56,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=64FFDA&center=true&vCenter=true&width=300&lines=AI+Engineer+🤖;Cloud+Security+🔐;Full+Stack+Dev+💻;Always+Learning+🚀;DevSecOps+⚙️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=64FFDA&center=true&vCenter=true&width=300&lines=AI+Engineer+🤖;Cloud+Security+🔐;Full+Stack+Dev+💻;Always+Learning+🚀;DevSecOps+⚙️"/>
 
   </td>
   </tr>
