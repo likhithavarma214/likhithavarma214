@@ -1,6 +1,4 @@
 <div align="center">
-<!-- ANIME CODING GIRL BANNER -->
-<img width="100%" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="🌸 banner" />
 <!-- NAME + TITLE PLATE -->
   
 <!-- ANIMATED HEADER BANNER -->
