@@ -151,20 +151,18 @@
 
 <div align="center">
 
-```
-HTML/CSS       ████████████████████  95%  🔥
-JavaScript     ████████████████░░░░  80%  ⚡
-React.js       ████████████░░░░░░░░  60%  🚀 [Learning]
-PHP            ██████████████░░░░░░  70%  💪
-MySQL          ████████████░░░░░░░░  60%  🗄️
-Git/GitHub     ██████████████████░░  90%  🐙
-Cloud/AWS      ████░░░░░░░░░░░░░░░░  20%  ☁️ [Learning]
-UI/UX Design   ██████████████░░░░░░  70%  🎨
-```
+| Skill | Proficiency | Level |
+|:------|:------------|:------|
+| **HTML / CSS** | ![95%](https://img.shields.io/badge/95%25-★★★★★-E34F26?style=flat-square&labelColor=0d1117&color=E34F26) | 🔥 Expert |
+| **JavaScript** | ![80%](https://img.shields.io/badge/80%25-★★★★☆-F7DF1E?style=flat-square&labelColor=0d1117&color=F7DF1E) | ⚡ Advanced |
+| **React.js** | ![60%](https://img.shields.io/badge/60%25-★★★☆☆-61DAFB?style=flat-square&labelColor=0d1117&color=61DAFB) | 🚀 Learning |
+| **PHP** | ![70%](https://img.shields.io/badge/70%25-★★★★☆-777BB4?style=flat-square&labelColor=0d1117&color=777BB4) | 💪 Intermediate |
+| **MySQL** | ![60%](https://img.shields.io/badge/60%25-★★★☆☆-4479A1?style=flat-square&labelColor=0d1117&color=4479A1) | 🗄️ Intermediate |
+| **Git / GitHub** | ![90%](https://img.shields.io/badge/90%25-★★★★★-F05032?style=flat-square&labelColor=0d1117&color=F05032) | 🐙 Expert |
+| **Cloud / AWS** | ![20%](https://img.shields.io/badge/20%25-★☆☆☆☆-FF9900?style=flat-square&labelColor=0d1117&color=FF9900) | ☁️ Learning |
+| **UI/UX Design** | ![70%](https://img.shields.io/badge/70%25-★★★★☆-F24E1E?style=flat-square&labelColor=0d1117&color=F24E1E) | 🎨 Intermediate |
 
 </div>
-
----
 
 ## 🌐 Connect With Me
 
