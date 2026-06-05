@@ -1,29 +1,35 @@
 <div align="center">
-
+<!-- ANIME CODING GIRL BANNER -->
+<img width="100%" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="🌸 banner" />
+<!-- NAME + TITLE PLATE -->
+  
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:C8A2FF,100:E6D5FF&height=220&section=header&text=Likhitha%20Varma%20Chinta&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Cloud%20%7C%20Cybersecurity%20%7C%20Full%20Stack%20Engineer&descColor=8892b0&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,30:2d1b4e,60:4a2060,100:6b2fa0&height=180&section=header&text=Likhitha%20Varma%20Chinta&fontSize=36&fontColor=FFB6C1&fontAlignY=35&desc=AI%20%7C%20Cloud%20%7C%20Cybersecurity%20%7C%20Full%20Stack%20Engineer&descColor=C8A2FF&descAlignY=55&animation=fadeIn" />
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/likhithavarma214">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=C8A2FF&center=true&vCenter=true&repeat=true&width=680&height=60&lines=%F0%9F%A4%96+AI+%26+Cloud+Security+Engineer;%F0%9F%94%90+DevSecOps+%26+Kubernetes+Enthusiast;%E2%98%81%EF%B8%8F+Building+Scalable+Secure+Systems;%F0%9F%92%BB+Full+Stack+Developer+%7C+Clean+Code;%F0%9F%9A%80+Turning+Ideas+Into+Production-Grade+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&repeat=true&width=680&height=60&lines=%F0%9F%A4%96+AI+%26+Cloud+Security+Engineer;%F0%9F%94%90+DevSecOps+%26+Kubernetes+Enthusiast;%E2%98%81%EF%B8%8F+Building+Scalable+Secure+Systems;%F0%9F%92%BB+Full+Stack+Developer+%7C+Clean+Code;%F0%9F%9A%80+Turning+Ideas+Into+Production-Grade+Apps" />
 </a>
 
 <br/>
 
+<!-- DECORATIVE DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <!-- BADGES ROW -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=likhithavarma214&label=👁️%20Profile%20Views&color=FFB6C1&style=for-the-badge&labelColor=0d1117" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=likhithavarma214&label=👁️%20Profile%20Views&color=FFB6C1&style=for-the-badge&labelColor=2d1b4e" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/likhithavarma214?label=Followers&style=for-the-badge&color=C8A2FF&labelColor=0d1117&cacheSeconds=3600&labelColor=FFB6C" />   
+<img src="https://img.shields.io/github/followers/likhithavarma214?label=Followers&style=for-the-badge&logo=github&color=FFB6C1&labelColor=C8A2FF" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To%20Work-✅ Yes!-FFB6C1?style=for-the-badge&labelColor=FFB6C!" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-✅%20Yes!-FFB6C1?style=for-the-badge&labelColor=2d1b4e" />
 </p>
 
 </div>
 
 ---
 
-## 🌌 About Me
+## 🌸 About Me
 
 <table>
   <tr>
@@ -56,11 +62,13 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=64FFDA&center=true&vCenter=true&width=300&lines=AI+Engineer+%F0%9F%A4%96;Cloud+Security+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80;DevSecOps+%E2%9A%99%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=C8A2FF&center=true&vCenter=true&width=300&lines=AI+Engineer+%F0%9F%A4%96;Cloud+Security+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80;DevSecOps+%E2%9A%99%EF%B8%8F" />
 
   </td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
@@ -71,7 +79,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/AccuKnox-Forward%20Deployment%20Engineer-FFB6C1?style=for-the-badge&labelColor=0d1117&logo=kubernetes&logoColor=FFB6C1" />
+      <img src="https://img.shields.io/badge/AccuKnox-Forward%20Deployment%20Engineer-FFB6C1?style=for-the-badge&labelColor=2d1b4e&logo=kubernetes&logoColor=FFB6C1" />
       <br/><br/>
       🔐 &nbsp; Cloud-Native Security Solutions<br/>
       ☸️ &nbsp; Kubernetes Security & Runtime Protection<br/>
@@ -79,7 +87,7 @@
       ⚙️ &nbsp; DevSecOps Practices for Enterprise<br/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/PwC-Risk%20Consulting%20Specialist-ff6b6b?style=for-the-badge&labelColor=0d1117&logo=shieldsdotio&logoColor=ff6b6b" />
+      <img src="https://img.shields.io/badge/PwC-Risk%20Consulting%20Specialist-C8A2FF?style=for-the-badge&labelColor=2d1b4e&logo=shieldsdotio&logoColor=C8A2FF" />
       <br/><br/>
       🔍 &nbsp; Security Analysis & Risk Assessment<br/>
       🏢 &nbsp; Enterprise Cybersecurity Workflows<br/>
@@ -91,18 +99,20 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ---
 
 ## 🎯 Current Focus
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-0d1117?style=for-the-badge&logo=openai&logoColor=64ffda)
-![LLMs](https://img.shields.io/badge/LLM%20Applications-0d1117?style=for-the-badge&logo=huggingface&logoColor=ffca28)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-0d1117?style=for-the-badge&logo=cloudflare&logoColor=64ffda)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-0d1117?style=for-the-badge&logo=github-actions&logoColor=64ffda)
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-2d1b4e?style=for-the-badge&logo=openai&logoColor=FFB6C1)
+![LLMs](https://img.shields.io/badge/LLM%20Applications-2d1b4e?style=for-the-badge&logo=huggingface&logoColor=C8A2FF)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-2d1b4e?style=for-the-badge&logo=cloudflare&logoColor=FFB6C1)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2d1b4e?style=for-the-badge&logo=kubernetes&logoColor=C8A2FF)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-2d1b4e?style=for-the-badge&logo=github-actions&logoColor=FFB6C1)
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-2d1b4e?style=for-the-badge&logo=react&logoColor=C8A2FF)
 
 </div>
 
@@ -115,7 +125,7 @@
 ### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-64ffda?style=for-the-badge&logo=chainlink&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-C8A2FF?style=for-the-badge&logo=chainlink&logoColor=2d1b4e)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
@@ -145,6 +155,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ---
 
 ## 📊 GitHub Stats & Analytics
@@ -152,33 +164,28 @@
 <div align="center">
 
 <a href="https://github.com/likhithavarma214">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=likhithavarma214&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;border_radius=12&amp;bg_color=0d1117&amp;title_color=C8A2FF&amp;icon_color=FFB6C1&amp;text_color=F8EFFF&amp;border_color=30363d" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithavarma214&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;border_radius=12&amp;bg_color=0d1117&amp;title_color=C8A2FF&amp;text_color=F8EFFF&amp;border_color=30363d" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=likhithavarma214&theme=tokyonight&border_radius=12&background=1a0a2e&border=4a2060&stroke=FFB6C1&ring=C8A2FF&fire=FFB6C1&currStreakNum=F8EFFF&sideNums=F8EFFF&currStreakLabel=FFB6C1&sideLabels=C8A2FF&dates=9e8ab0" />
 </a>
 
 <br/>
 
 <a href="https://github.com/likhithavarma214">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=likhithavarma214&theme=tokyonight&border_radius=12&background=0d1117&border=30363d&stroke=64ffda&ring=64ffda&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=64ffda&sideLabels=64ffda&dates=8b949e" />
-</a>
-
-<br/>
-
-<a href="https://github.com/likhithavarma214">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=likhithavarma214&bg_color=0d1117&color=64ffda&line=64ffda&point=ff6b35&area=true&area_color=112240&hide_border=false&border_color=30363d&radius=12" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=likhithavarma214&bg_color=1a0a2e&color=C8A2FF&line=FFB6C1&point=F8EFFF&area=true&hide_border=true" />
 </a>
 
 </div>
+
 
 ---
+## 📈 GitHub Journey
 
-## 🏆 GitHub Trophies
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=likhithavarma214&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhithavarma214&theme=tokyonight" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
@@ -202,17 +209,19 @@
 
 | Skill | Badge | Level |
 |:------|:------|:------|
-| **HTML / CSS** | ![Expert](https://img.shields.io/badge/Expert-95%25-E34F26?style=for-the-badge&labelColor=0d1117) | 🔥 Expert |
-| **JavaScript** | ![Advanced](https://img.shields.io/badge/Advanced-80%25-F7DF1E?style=for-the-badge&labelColor=0d1117) | ⚡ Advanced |
-| **React.js** | ![Growing](https://img.shields.io/badge/Growing-60%25-61DAFB?style=for-the-badge&labelColor=0d1117) | 🚀 Growing |
-| **Python / AI** | ![Growing](https://img.shields.io/badge/Growing-65%25-3776AB?style=for-the-badge&labelColor=0d1117) | 🤖 Growing |
-| **Cloud / AWS** | ![Growing](https://img.shields.io/badge/Growing-40%25-FF9900?style=for-the-badge&labelColor=0d1117) | ☁️ Growing |
-| **Kubernetes** | ![Growing](https://img.shields.io/badge/Growing-35%25-326CE5?style=for-the-badge&labelColor=0d1117) | ☸️ Growing |
-| **Cybersecurity** | ![Solid](https://img.shields.io/badge/Solid-65%25-64ffda?style=for-the-badge&labelColor=0d1117) | 🔐 Solid |
-| **Git / GitHub** | ![Expert](https://img.shields.io/badge/Expert-90%25-F05032?style=for-the-badge&labelColor=0d1117) | 🐙 Expert |
-| **UI/UX Design** | ![Solid](https://img.shields.io/badge/Solid-70%25-F24E1E?style=for-the-badge&labelColor=0d1117) | 🎨 Solid |
+| **HTML / CSS** | ![Expert](https://img.shields.io/badge/Expert-95%25-FFB6C1?style=for-the-badge&labelColor=2d1b4e) | 🔥 Expert |
+| **JavaScript** | ![Advanced](https://img.shields.io/badge/Advanced-80%25-C8A2FF?style=for-the-badge&labelColor=2d1b4e) | ⚡ Advanced |
+| **React.js** | ![Growing](https://img.shields.io/badge/Growing-60%25-FFB6C1?style=for-the-badge&labelColor=2d1b4e) | 🚀 Growing |
+| **Python / AI** | ![Growing](https://img.shields.io/badge/Growing-65%25-C8A2FF?style=for-the-badge&labelColor=2d1b4e) | 🤖 Growing |
+| **Cloud / AWS** | ![Growing](https://img.shields.io/badge/Growing-40%25-FFB6C1?style=for-the-badge&labelColor=2d1b4e) | ☁️ Growing |
+| **Kubernetes** | ![Growing](https://img.shields.io/badge/Growing-35%25-C8A2FF?style=for-the-badge&labelColor=2d1b4e) | ☸️ Growing |
+| **Cybersecurity** | ![Solid](https://img.shields.io/badge/Solid-65%25-FFB6C1?style=for-the-badge&labelColor=2d1b4e) | 🔐 Solid |
+| **Git / GitHub** | ![Expert](https://img.shields.io/badge/Expert-90%25-C8A2FF?style=for-the-badge&labelColor=2d1b4e) | 🐙 Expert |
+| **UI/UX Design** | ![Solid](https://img.shields.io/badge/Solid-70%25-FFB6C1?style=for-the-badge&labelColor=2d1b4e) | 🎨 Solid |
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
@@ -222,8 +231,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhithavarma)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhithavarmachinta@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/likhithavarma214)
-[![Portfolio](https://img.shields.io/badge/Portfolio-64ffda?style=for-the-badge&logo=google-chrome&logoColor=black)](https://drive.google.com/file/d/1OD2uiJvcXumPuHYEl0hIbPn6wuELiView?usp=drive_link)
+[![GitHub](https://img.shields.io/badge/GitHub-2d1b4e?style=for-the-badge&logo=github&logoColor=FFB6C1)](https://github.com/likhithavarma214)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C8A2FF?style=for-the-badge&logo=google-chrome&logoColor=2d1b4e)](https://drive.google.com/file/d/1OD2uiJvcXumPuHYEl0hIbPn6wuELiView?usp=drive_link)
 
 </div>
 
@@ -243,20 +252,20 @@
 
 <div align="center">
 
-> *"I write code the way BTS makes music — with passion, consistency, and continuous improvement."* 🎵
+> *"I write code the way BTS makes music; with passion, consistency, and continuous improvement."* 🎵
 >
-> — Likhitha Varma Chinta
+> Likhitha Varma Chinta
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:112240,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6b2fa0,50:4a2060,100:1a0a2e&height=130&section=footer&animation=fadeIn" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Likhitha%20Varma%20Chinta-64ffda?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Made%20with%20💖%20by-Likhitha%20Varma%20Chinta-FFB6C1?style=for-the-badge&labelColor=2d1b4e" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/AI%20%7C%20Cloud%20%7C%20Cybersecurity%20%7C%20Full%20Stack-0d1117?style=for-the-badge&labelColor=112240&color=64ffda" />
+  <img src="https://img.shields.io/badge/AI%20%7C%20Cloud%20%7C%20Cybersecurity%20%7C%20Full%20Stack-2d1b4e?style=for-the-badge&labelColor=4a2060&color=C8A2FF" />
 </div>
