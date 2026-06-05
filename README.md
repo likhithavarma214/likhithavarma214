@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,60:112240,100:1a1a2e&height=220&section=header&text=Likhitha%20Varma%20Chinta&fontSize=44&fontColor=64ffda&fontAlignY=38&desc=AI%20%7C%20Cloud%20%7C%20Cybersecurity%20%7C%20Full%20Stack%20Engineer&descColor=8892b0&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:C8A2FF,100:E6D5FF&height=220&section=header&text=Likhitha%20Varma%20Chinta&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Cloud%20%7C%20Cybersecurity%20%7C%20Full%20Stack%20Engineer&descColor=8892b0&descAlignY=58&animation=fadeIn" />
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/likhithavarma214">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=60&lines=🤖+AI+%26+Cloud+Security+Engineer;🔐+DevSecOps+%26+Kubernetes+Enthusiast;☁️+Building+Scalable+Secure+Systems;💻+Full+Stack+Developer+%7C+Clean+Code;🚀+Turning+Ideas+Into+Production-Grade+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=C8A2FF&center=true&vCenter=true&repeat=true&width=680&height=60&lines=%F0%9F%A4%96+AI+%26+Cloud+Security+Engineer;%F0%9F%94%90+DevSecOps+%26+Kubernetes+Enthusiast;%E2%98%81%EF%B8%8F+Building+Scalable+Secure+Systems;%F0%9F%92%BB+Full+Stack+Developer+%7C+Clean+Code;%F0%9F%9A%80+Turning+Ideas+Into+Production-Grade+Apps" />
 </a>
 
 <br/>
 
 <!-- BADGES ROW -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=likhithavarma214&label=👁️%20Profile%20Views&color=64ffda&style=for-the-badge&labelColor=0d1117" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=likhithavarma214&label=👁️%20Profile%20Views&color=FFB6C1&style=for-the-badge&labelColor=0d1117" alt="profile views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/likhithavarma214?label=Followers&style=for-the-badge&color=64ffda&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/likhithavarma214?label=Followers&style=for-the-badge&color=C8A2FF&labelColor=0d1117&cacheSeconds=3600&labelColor=FFB6C" />   
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To%20Work-✅ Yes!-64ffda?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-✅ Yes!-FFB6C1?style=for-the-badge&labelColor=FFB6C!" />
 </p>
 
 </div>
@@ -38,7 +38,7 @@
 🌱 &nbsp; Exploring **AI Agents, LLMs, Kubernetes, DevSecOps & Cloud Security**
 💡 &nbsp; Passionate about building **secure, scalable, intelligent** applications
 📬 &nbsp; [likhithavarmachinta@gmail.com](mailto:likhithavarmachinta@gmail.com)
-📄 &nbsp; [View My Experience →](https://drive.google.com/file/d/1OD2uiJvcXumPuHYEl0hIbPn6wuELiView?usp=drive_link)
+📄 &nbsp; [View My Experience →](https://drive.google.com/file/d/1cvdjCDr2SF4imXrjV8ml7j_stTXIq_sq/view?usp=sharing)
 
 <br/>
 
@@ -56,7 +56,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=64FFDA&center=true&vCenter=true&width=300&lines=AI+Engineer+🤖;Cloud+Security+🔐;Full+Stack+Dev+💻;Always+Learning+🚀;DevSecOps+⚙️"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=64FFDA&center=true&vCenter=true&width=300&lines=AI+Engineer+%F0%9F%A4%96;Cloud+Security+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80;DevSecOps+%E2%9A%99%EF%B8%8F" />
 
   </td>
   </tr>
@@ -71,7 +71,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/AccuKnox-Cloud%20Security%20Intern-64ffda?style=for-the-badge&labelColor=0d1117&logo=kubernetes&logoColor=64ffda" />
+      <img src="https://img.shields.io/badge/AccuKnox-Forward%20Deployment%20Engineer-FFB6C1?style=for-the-badge&labelColor=0d1117&logo=kubernetes&logoColor=FFB6C1" />
       <br/><br/>
       🔐 &nbsp; Cloud-Native Security Solutions<br/>
       ☸️ &nbsp; Kubernetes Security & Runtime Protection<br/>
@@ -79,7 +79,7 @@
       ⚙️ &nbsp; DevSecOps Practices for Enterprise<br/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/PwC-Cybersecurity%20Intern-ff6b6b?style=for-the-badge&labelColor=0d1117&logo=shieldsdotio&logoColor=ff6b6b" />
+      <img src="https://img.shields.io/badge/PwC-Risk%20Consulting%20Specialist-ff6b6b?style=for-the-badge&labelColor=0d1117&logo=shieldsdotio&logoColor=ff6b6b" />
       <br/><br/>
       🔍 &nbsp; Security Analysis & Risk Assessment<br/>
       🏢 &nbsp; Enterprise Cybersecurity Workflows<br/>
@@ -152,8 +152,9 @@
 <div align="center">
 
 <a href="https://github.com/likhithavarma214">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=likhithavarma214&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&border_color=30363d" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithavarma214&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&border_color=30363d" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=likhithavarma214&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;border_radius=12&amp;bg_color=0d1117&amp;title_color=C8A2FF&amp;icon_color=FFB6C1&amp;text_color=F8EFFF&amp;border_color=30363d" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithavarma214&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;border_radius=12&amp;bg_color=0d1117&amp;title_color=C8A2FF&amp;text_color=F8EFFF&amp;border_color=30363d" />
 </a>
 
 <br/>
@@ -173,10 +174,9 @@
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=likhithavarma214&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=likhithavarma214&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
 
 </div>
 
